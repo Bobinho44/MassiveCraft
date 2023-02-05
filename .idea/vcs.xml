@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MassiveCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MassiveCoreXlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MassiveSuper" vcs="Git" />
+  </component>
+</project>

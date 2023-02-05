@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Factions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factions/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveCore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveCore/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveCoreXlib/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveCoreXlib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveSuper/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MassiveSuper/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

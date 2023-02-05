@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8364142e-9e2b-4217-9772-b9d8618d7d5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Factions/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Factions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/cmd/CmdFactionsFaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/cmd/CmdFactionsFaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/cmd/CmdFactionsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/cmd/CmdFactionsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/integration/mythicmobs/EngineMythicMobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factions/src/com/massivecraft/factions/integration/mythicmobs/EngineMythicMobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MassiveCore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MassiveCore/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MassiveCoreXlib/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MassiveCoreXlib/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MassiveSuper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MassiveSuper/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MassiveCore" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Kn4MikhkCpcGOupWUjG4OgITvv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Shadow/Desktop/BTimetable",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shadow\Desktop\MassiveCraft\Factions\resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shadow\Desktop\MassiveCraft" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8364142e-9e2b-4217-9772-b9d8618d7d5c" name="Changes" comment="" />
+      <created>1674596972199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674596972199</updated>
+      <workItem from="1674596974403" duration="599000" />
+      <workItem from="1674598121796" duration="4808000" />
+      <workItem from="1674667083449" duration="81000" />
+      <workItem from="1674943142726" duration="831000" />
+      <workItem from="1675033986732" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
